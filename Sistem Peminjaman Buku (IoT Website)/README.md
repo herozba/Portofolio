@@ -1,4 +1,4 @@
-# 📚 RFID Book Management Dashboard (Firebase)
+# 📚 RFID Book Management Dashboard
 
 Proyek ini adalah sistem dashboard berbasis web untuk mengelola peminjaman buku menggunakan teknologi **RFID** dan **Firebase Realtime Database**. Sistem ini memungkinkan pencatatan buku baru, pemantauan status buku secara *real-time*, serta pencatatan riwayat peminjaman otomatis.
 
@@ -15,3 +15,4 @@ Proyek ini adalah sistem dashboard berbasis web untuk mengelola peminjaman buku 
 * **Frontend**: HTML5, CSS3 (Modern Card UI), dan JavaScript (ES6+).
 * **Backend/Database**: [Firebase Realtime Database](https://firebase.google.com/) (Version 8.10.0).
 * **Hardware Compatibility**: Kompatibel dengan sistem berbasis ESP8266/ESP32 dan RFID RC522.
+
