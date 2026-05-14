@@ -1,0 +1,21 @@
+{
+  "name": "dudung-news",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^4.0.0",
+    "vue": "latest",
+    "vue-router": "latest",
+    "@nuxtjs/google-fonts": "^3.2.0"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest"
+  }
+}
